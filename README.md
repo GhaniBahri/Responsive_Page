@@ -13,7 +13,7 @@ Project Structure
 __About the Frontend Bootcamp__
 The Frontend Bootcamp provided by *__Re:coded__* is an excellent opportunity for aspiring web developers to learn essential frontend skills, gain hands-on experience, and build real-world projects. I am grateful to Recoded for this invaluable learning experience and look forward to completing more assignments and enhancing my proficiency in frontend technologies.  
 
-__Contact__
+__Contact__  
 If you have any questions or feedback regarding this project, feel free to reach out to me through the contact information provided in my GitHub profile.  
 
 Happy coding! 🚀
